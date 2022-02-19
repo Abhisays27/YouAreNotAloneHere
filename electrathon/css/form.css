@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(/photos/mohamed-nohassi-odxB5oIG_iA-unsplash.jpg);
+    background-size: cover;
+  
+    
+
+}
+.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 36px;
+    color:  black;
+    text-shadow: 20px white;
+
+}
+.register{
+    background-color: rgba(22, 2, 8, 0.322);
+    width: 93%;
+    font-size: 18px;
+    border-radius: 18px;
+    border: 1px solid rgb(15, 14, 14);
+    box-shadow: 2px 2px 15px  rgba(20, 2, 2, 0.603) ;
+    color: white;
+    margin: 12px 4px;
+    padding: 4px 118px;
+}
+form #register1{
+    margin: 40px;
+   
+}
+label{
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Audiowide', cursive;
+    font-size: 15px;
+
+    
+    font-style: italic;
+    color: rgb(15, 15, 15) ;
+    font-weight: bold;
+}
+input#name {
+    width: 300px;
+    border:1px solid red;
+    border-radius: 5px;
+    outline: 0;
+    padding: 7px;
+    background-color: rgba(252, 247, 247, 0.973);
+    box-shadow: inset1px 1px 5px rgb(0, 0, 0);
+
+}
+input#submit{
+    width:200px;
+    padding:7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(213 203 201);
+    cursor: pointer;
+    border: 2px solid ;
+}
